@@ -33,7 +33,7 @@ const options = {
   method: 'GET',
   headers: {
     accept:'application/json',
-     'x-cg-demo-api-key': API_key;
+     'x-cg-demo-api-key': API_key
     }
 };
 
